@@ -1,1 +1,9 @@
 # BankLoanUSAPowerBi
+
+The Bank Loan Analysis Power BI project aims to provide insightful analysis and visualization of bank loan data. It features three main dashboards—Summary, Overview, and Details—each offering distinct perspectives on key metrics. The Summary Dashboard presents KPIs such as Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio (DTI), with insights on month-to-date (MTD) and month-over-month (MoM) changes. It includes a Loan Status Grid View to give a comprehensive overview of lending operations. The Overview Dashboard visualizes monthly lending trends, regional analysis, loan term distributions, employment length metrics, loan purposes, and home ownership impacts through various charts and maps. 
+
+The Details Dashboard provides an in-depth view of loan-related metrics, enabling efficient access to critical information about loan portfolios, borrower profiles, and loan performance. The dataset includes fields such as Loan ID, Address State, Purpose, Grade, Sub Grade, Annual Income, Loan Status, and others, offering insights into borrower demographics, employment stability, loan characteristics, risk assessment, and payment behavior. The repository includes images of the dashboards and encourages contributions for enhancements. To get started, users can clone the repository, open the Power BI project, and interact with the dashboards to gain valuable insights.
+
+![Screenshot 2024-07-29 152247](https://github.com/user-attachments/assets/05d75c9f-6e69-4186-9a2b-5d90f47d9d05)
+![Screenshot 2024-07-29 152212](https://github.com/user-attachments/assets/352d3fba-26c8-4d8d-ba9e-cd84224cd046)
+![Screenshot 2024-07-29 142239](https://github.com/user-attachments/assets/76f04f56-cbff-4e6a-9f56-c5d4b11539f0)
